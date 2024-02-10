@@ -3,4 +3,4 @@ dev:
    cpass: hshjs(*^*&fj
 spotify:
   tokenUri: https://accounts.spotify.com/api/token
-  someKey: spotify_test2_value
+  someKey: spotify_test3_value
